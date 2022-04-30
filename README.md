@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrieltorland" alt="gabrieltorland" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@gabrieltorland" target="blank"><img src="https://img.shields.io/twitter/follow/@gabrieltorland?logo=twitter&style=for-the-badge" alt="@gabrieltorland" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@GabrielTorland" target="blank"><img src="https://img.shields.io/twitter/follow/@GabrielTorland?logo=twitter&style=for-the-badge" alt="@GabrielTorland" /></a> </p>
 
 - 👨‍🎓 I’m currently studying computer science at [University of Agder](https://www.uia.no/studier/data-ingenioerfag)
 
