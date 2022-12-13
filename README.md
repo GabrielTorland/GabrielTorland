@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Torland</h1>
 <h3 align="center">A passionate computer scientist from Norway</h3>
 
-<h3> About Me:</h3>
+<h3> About me:</h3>
 <p>
  I enojoy for solving complex problems and creating innovative solutions using cutting-edge technology. I have a strong background in algorithms, data structures, and software design, and I enjoy working on projects that challenge me to think critically and push the boundaries of what is possible. In addition to my expertise in computer science, I also have a keen interest in mathematics, particularly calculus and discrete mathematics. Whether I am developing a new machine learning model, optimizing a database, or designing a user interface, I am constantly striving to improve my skills and broaden my knowledge. I am always looking for new opportunities to collaborate and learn from others, and I am excited to see what the future holds for the field of computer science.
 </p>
