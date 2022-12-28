@@ -3,7 +3,7 @@
 
 <h3> About me:</h3>
 <p>
-Hi, my name is Gabriel and I am studying computer science. I have a strong interest in tackling complex problems and using innovative technology to find creative solutions. With a background in algorithms, data structures, and software design, I thrive on projects that require critical thinking and pushing the boundaries of what is possible. In addition to computer science, I also have a passion for mathematics, particularly calculus and discrete math. Whether working on a machine learning model, optimizing a database, or designing a user interface, I am constantly seeking to improve my skills and expand my knowledge. I value collaboration and the opportunity to learn from others, and I am eager to see what the future holds for the field of computer science.
+Hi, my name is Gabriel and I am studying computer science major. I have a strong interest in tackling complex problems and using innovative technology to find creative solutions. With a background in algorithms, data structures, and software design, I thrive on projects that require critical thinking and pushing the boundaries of what is possible. In addition to computer science, I also have a passion for mathematics, particularly calculus and discrete math. Whether working on a machine learning model, optimizing a database, or designing a user interface, I am constantly seeking to improve my skills and expand my knowledge. I value collaboration and the opportunity to learn from others, and I am eager to see what the future holds for the field of computer science.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieltorland&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieltorland" /> </p>
