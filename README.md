@@ -8,7 +8,7 @@ Hi, my name is Gabriel and I am a computer science major. I have a strong intere
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieltorland&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieltorland" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrieltorland&theme=transparent" alt="gabrieltorland" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrieltorland&theme=onedark" alt="gabrieltorland" /></a> </p>
 
 - 👨‍🎓 I’m currently studying computer science at [University of Agder](https://www.uia.no/studier/data-ingenioerfag)
 
