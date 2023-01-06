@@ -44,9 +44,5 @@ Hi, my name is Gabriel and I am a computer science major. I have a strong intere
   srcset="https://github-readme-stats.vercel.app/api?username=gabrieltorland&show_icons=true&locale=en"
   media="(prefers-color-scheme: dracula)"
 />
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=gabrieltorland&show_icons=true&locale=en"
-  media="(prefers-color-scheme: dracula), (prefers-color-scheme: dracula)"
-/>
 <img src="https://github-readme-stats.vercel.app/api?username=gabrieltorland&show_icons=true&locale=en" />
 </picture>
