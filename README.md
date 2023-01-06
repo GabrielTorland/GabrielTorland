@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer scientist from Norway</h3>
 
 <h3> About me:</h3>
-<p style="color:#ff79c6;">
+<p style="color: #ff79c6;">
 Hi, my name is Gabriel and I am a computer science major. I have a strong interest in tackling complex problems and using innovative technology to find creative solutions. With a background in algorithms, data structures, and software design, I thrive on projects that require critical thinking and pushing the boundaries of what is possible. In addition to computer science, I also have a passion for mathematics, particularly calculus and discrete math. Whether working on a machine learning model, optimizing a database, or designing a user interface, I am constantly seeking to improve my skills and expand my knowledge. I value collaboration and the opportunity to learn from others, and I am eager to see what the future holds for the field of computer science.
 </p>
 
