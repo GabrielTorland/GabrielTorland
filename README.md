@@ -10,6 +10,8 @@ Hi, my name is Gabriel and I am a computer science major. I have a strong intere
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrieltorland&theme=dracula" alt="gabrieltorland" /></a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieltorland&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Programming Languages" /></p>
+
 - 👨‍🎓 I’m currently studying computer science at [University of Agder](https://www.uia.no/studier/data-ingenioerfag)
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/GabrielTorland)
@@ -26,6 +28,7 @@ Hi, my name is Gabriel and I am a computer science major. I have a strong intere
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltorland&theme=dracula" alt="gabrieltorland" alt="Commits"/></p>
 <p align="left">
 <!-- https://github.com/tandpfun/skill-icons#themed-icons -->
 <!-- Sorted by knowledge in descending order -->
@@ -33,8 +36,4 @@ Hi, my name is Gabriel and I am a computer science major. I have a strong intere
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieltorland&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Programming Languages" /></p>
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieltorland&show_icons=true&locale=en&theme=dracula" alt="Stats" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltorland&theme=dracula" alt="gabrieltorland" alt="Commits"/></p>
