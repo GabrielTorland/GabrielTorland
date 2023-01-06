@@ -33,10 +33,10 @@ Hi, my name is Gabriel and I am a computer science major. I have a strong intere
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieltorland&show_icons=true&locale=en&layout=compact" alt="gabrieltorland" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieltorland&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Programming Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieltorland&show_icons=true&locale=en" alt="gabrieltorland" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieltorland&show_icons=true&locale=en&theme=dracula" alt="Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltorland&" alt="gabrieltorland" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltorland&theme=dracula" alt="gabrieltorland" alt="Commits"/></p>
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gabrieltorland&show_icons=true&locale=en&layout=compact&theme=transparent)
