@@ -39,10 +39,4 @@ Hi, my name is Gabriel and I am a computer science major. I have a strong intere
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltorland&" alt="gabrieltorland" /></p>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=gabrieltorland&show_icons=true&locale=en"
-  media="(prefers-color-scheme: dracula)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=gabrieltorland&show_icons=true&locale=en" />
-</picture>
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gabrieltorland&show_icons=true&locale=en&layout=compact&theme=transparent)
