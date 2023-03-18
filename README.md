@@ -2,8 +2,8 @@
 <h3 align="center">A passionate computer scientist from Norway</h3>
 
 <h3> About me:</h3>
-<p style="color: #ff79c6;">
-Hi, my name is Gabriel and I am a computer science major. I have a strong interest in tackling complex problems and using innovative technology to find creative solutions. With a background in algorithms, data structures, and software design, I thrive on projects that require critical thinking and pushing the boundaries of what is possible. In addition to computer science, I also have a passion for mathematics, particularly calculus and discrete math. Whether working on a machine learning model, optimizing a database, or designing a user interface, I am constantly seeking to improve my skills and expand my knowledge. I value collaboration and the opportunity to learn from others, and I am eager to see what the future holds for the field of computer science.
+<p>
+Greetings, I am Gabriel, an aficionado of the intricate discipline of computer science. My proclivities lie in grappling with multifaceted conundrums and employing cutting-edge technology to devise imaginative resolutions. Possessing a foundation in algorithms, data structures, and the art of software design, I flourish amidst ventures demanding astute cognition and transcending conventional limitations. Beyond the realm of computer science, I harbor a fervent ardor for the mathematical sciences, specifically the realms of calculus and discrete mathematics. Be it the construction of a machine learning models, the optimization of a database, or the conceptualization of a user interface, I perpetually strive to hone my expertise and broaden my intellectual horizons. I cherish cooperative endeavors and the prospects of acquiring wisdom from my peers, whilst ardently anticipating the forthcoming advancements within the computer science domain.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieltorland&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieltorland" /> </p>
