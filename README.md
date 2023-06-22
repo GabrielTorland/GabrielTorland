@@ -3,7 +3,7 @@
 
 <h3> About me:</h3>
 <p>
-Hello, I'm Gabriel, a computer scientist. I enjoy solving complex problems using advanced technology to come up with innovative solutions. I have a strong understanding of algorithms, data structures, and software design, and thrive when working on tasks that require sharp thinking and breaking boundaries. I'm also interested in mathematics, particularly calculus and discrete math. Whether I'm building machine learning models, improving a database, or designing a user interface, I'm always looking to improve my skills and learn more. I value working with others and learning from them, and I'm excited about future developments in the field of computer science.
+Hello there! I'm Gabriel Torland, a devoted tech enthusiast.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieltorland&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieltorland" /> </p>
