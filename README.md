@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrieltorland&theme=dracula" alt="gabrieltorland" /></a> </p>
 
 
-- 👨‍🎓 I’m currently studying computer science at [University of Agder](https://www.uia.no/studier/data-ingenioerfag)
+- 👨‍🎓 B.S. in Computer Engineering, [University of Agder](https://www.uia.no/studier/data-ingenioerfag)
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/GabrielTorland)
 
